@@ -1,0 +1,1 @@
+{"root":["./src/auth.store.ts","./src/features/auth/auth.service.ts","./src/services/api.ts","./src/store/auth.store.ts","./src/utils/auth.ts","./src/video/agoraconfig.ts"],"errors":true,"version":"5.9.3"}
